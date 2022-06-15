@@ -35,3 +35,6 @@ h4{
     width: 4rem;
 }
 
+.animate:hover {
+    transform: scale(2.05);
+  }
